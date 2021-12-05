@@ -1,13 +1,17 @@
 # Landing-Page
 
-Description 
+• Description 
 
 ## Overview
 
-Description 
+• Description 
 
 ## Technology Used
 
+• HTML 
 
+• CSS 
 
 ## Lesson Learned 
+
+• Some Description 
